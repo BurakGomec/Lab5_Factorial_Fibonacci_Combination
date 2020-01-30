@@ -1,0 +1,26 @@
+C:\Users\Alican\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Alican\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Alican\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\Alican\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Alican\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\emino\Desktop\Lab5-master\Lab5-master\Lab5\bin\Debug\ConsoleApp1.exe
+C:\Users\emino\Desktop\Lab5-master\Lab5-master\Lab5\bin\Debug\ConsoleApp1.pdb
+C:\Users\emino\Desktop\Lab5-master\Lab5-master\Lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\emino\Desktop\Lab5-master\Lab5-master\Lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\emino\Desktop\Lab5-master\Lab5-master\Lab5\obj\Debug\ConsoleApp1.exe
+C:\Users\emino\Desktop\Lab5-master\Lab5-master\Lab5\obj\Debug\ConsoleApp1.pdb
+C:\Users\emino\source\repos\Lab5-master\Lab5-master\Lab5\bin\Debug\ConsoleApp1.exe
+C:\Users\emino\source\repos\Lab5-master\Lab5-master\Lab5\bin\Debug\ConsoleApp1.pdb
+C:\Users\emino\source\repos\Lab5-master\Lab5-master\Lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\emino\source\repos\Lab5-master\Lab5-master\Lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\emino\source\repos\Lab5-master\Lab5-master\Lab5\obj\Debug\ConsoleApp1.exe
+C:\Users\emino\source\repos\Lab5-master\Lab5-master\Lab5\obj\Debug\ConsoleApp1.pdb
+C:\Users\Burak\Desktop\lab5_cozum-master\Lab5\obj\Debug\ConsoleApp1.exe
+C:\Users\Burak\Desktop\lab5_cozum-master\Lab5\obj\Debug\ConsoleApp1.pdb
+G:\Genel\Genel\Nesneye Yönelik\lab5_cozum-master\Lab5\bin\Debug\ConsoleApp1.exe
+G:\Genel\Genel\Nesneye Yönelik\lab5_cozum-master\Lab5\bin\Debug\ConsoleApp1.pdb
+G:\Genel\Genel\Nesneye Yönelik\lab5_cozum-master\Lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+G:\Genel\Genel\Nesneye Yönelik\lab5_cozum-master\Lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+G:\Genel\Genel\Nesneye Yönelik\lab5_cozum-master\Lab5\obj\Debug\ConsoleApp1.exe
+G:\Genel\Genel\Nesneye Yönelik\lab5_cozum-master\Lab5\obj\Debug\ConsoleApp1.pdb
